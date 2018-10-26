@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/prof_bck" >
+    
+    
+    <RelativeLayout 
+        android:id="@+id/profile_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/prof_hdr" >
+
+        <TextView
+            android:id="@+id/profile_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/prof_imgView"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="8dp"
+            android:layout_toRightOf="@+id/prof_imgView"
+            android:text="Medium Text"
+            android:textStyle="bold"
+            android:textColor="#22687B"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/profile_event"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/profile_name"
+            android:layout_below="@+id/profile_name"
+            android:layout_marginTop="3dp"
+            android:textColor="#22687B"
+            android:text="TextView" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/profile_name"
+            android:src="@drawable/seperator_line" />
+
+        <ImageView
+            android:id="@+id/prof_imgView"
+            android:layout_width="75dp"
+            android:layout_height="80dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"
+            android:paddingLeft="2dp" />
+        
+    </RelativeLayout>
+    
+    <RelativeLayout 
+        android:id="@+id/profile_body"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/profile_header" >
+
+        <Button
+            android:id="@+id/prof_send_grtng"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="45dp"
+            android:text="Send Greeting"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:textColor="#31859C"
+            android:gravity="center_vertical"
+            android:padding="10dp"
+            android:background="@drawable/txt_bck" />
+
+        <Button
+            android:id="@+id/prof_send_sms"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/prof_send_grtng"
+            android:text="Send SMS"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:textColor="#31859C"
+            android:gravity="right|center_vertical"
+            android:padding="10dp"
+            android:background="@drawable/txt_bck" />
+
+        <Button
+            android:id="@+id/bday_info_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/prof_send_sms"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/txt_bck"
+            android:textColor="#31859C"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:padding="5dp" />
+
+        <Button
+            android:id="@+id/bday_info_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/bday_info_1"
+            android:textColor="#31859C"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:background="@drawable/txt_bck" />
+
+        <Button
+            android:id="@+id/profile_fb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/bday_info_2"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp" 
+            android:text="Profile"
+            android:textStyle="bold"
+            android:textColor="#31859C"
+            android:gravity="right|center_vertical"
+            android:padding="10dp"
+            android:background="@drawable/txt_bck"/>
+        
+    </RelativeLayout>
+    
+
+</RelativeLayout>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/prof_bck" >
+
+    <RelativeLayout
+        android:id="@+id/sms_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/prof_hdr" >
+
+        <ImageView
+            android:id="@+id/sms_imgView"
+            android:layout_width="75dp"
+            android:layout_height="80dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="8dp"
+            android:paddingLeft="2dp" />
+
+        <TextView
+            android:id="@+id/sms_prof_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/sms_imgView"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="8dp"
+            android:layout_toRightOf="@+id/sms_imgView"
+            android:text="Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#22687B"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/sms_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sms_header" >
+
+        <RelativeLayout
+            android:id="@+id/sms_content_rel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:id="@+id/sms_ph_numbr"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/contct_bg"
+                android:ems="10"
+                android:padding="10dp"
+                android:inputType="phone" >
+            </EditText>
+
+            <ImageView
+                android:id="@+id/sms_conct_brws"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/sms_ph_numbr"
+                android:layout_marginLeft="18dp"
+                android:layout_toRightOf="@+id/sms_ph_numbr"
+                android:background="@drawable/brwse" />
+
+            <EditText
+                android:id="@+id/sms_message"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/sms_ph_numbr"
+                android:layout_below="@+id/sms_ph_numbr"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/txt_bckgrnd"
+                android:ems="10"
+                android:gravity="top"
+                android:inputType="textMultiLine"
+                android:padding="10dp" >
+            </EditText>
+
+            <ImageView
+                android:id="@+id/sms_send_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/sms_message"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="3dp"
+                android:src="@drawable/snd_btn" />
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

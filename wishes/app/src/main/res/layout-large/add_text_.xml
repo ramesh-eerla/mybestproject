@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:background="@android:color/white">
+
+    <EditText
+        android:id="@+id/typetext"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp" 
+        android:layout_marginLeft="10dp" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/fonttype"
+        android:layout_width="85dp"
+        android:layout_height="55dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/typetext"
+        android:layout_marginLeft="23dp"
+        android:layout_marginTop="25dp"
+         android:background="#7bcdfc"
+        android:text="Font" 
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/colorfont"
+        android:layout_width="85dp"
+        android:layout_height="55dp"
+        android:layout_alignBaseline="@+id/fonttype"
+        android:layout_toRightOf="@+id/fonttype"
+        android:layout_marginLeft="25dp"
+         android:background="#7bcdfc"
+        android:text="Color" 
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/entertext"
+        android:layout_width="85dp"
+        android:layout_height="55dp"
+        android:layout_alignBaseline="@+id/colorfont"
+        android:layout_toRightOf="@+id/colorfont"
+        android:layout_marginLeft="30dp"
+         android:background="#7bcdfc"
+        android:text="Insert"
+        android:textSize="20dp"
+        />
+
+    <TextView
+        android:id="@+id/formattext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+       android:layout_toRightOf="@+id/typetext"
+       android:layout_marginTop="30dp"
+       android:layout_marginLeft="10dp"
+       
+          android:textColor="@android:color/black"
+        android:text="0/30"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</RelativeLayout>

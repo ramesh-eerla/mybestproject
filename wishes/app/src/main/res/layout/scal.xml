@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000" >
+
+    <RelativeLayout
+        android:id="@+id/r_cont"
+        android:layout_width="160dp"
+        android:layout_height="240dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="#d3d276" >
+
+        <ViewFlipper
+            android:id="@+id/vf_cont"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#000" >
+
+            <ImageView
+                android:id="@+id/iv_cont"
+                android:layout_width="160dp"
+                android:layout_height="240dp"
+                android:background="@drawable/contacts"
+                android:contentDescription="@string/appname" />
+
+            <ImageView
+                android:id="@+id/iv_cont_sub"
+                android:layout_width="160dp"
+                android:layout_height="240dp"
+                android:contentDescription="@string/appname" />
+        </ViewFlipper>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r_fb"
+        android:layout_width="160dp"
+        android:layout_height="240dp"
+        android:background="#76b6de" >
+
+        <ViewFlipper
+            android:id="@+id/vf_fb"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#000" >
+
+            <ImageView
+                android:id="@+id/iv_fb"
+                android:layout_width="160dp"
+                android:layout_height="240dp"
+                android:background="@drawable/facebook"
+                android:contentDescription="@string/appname" />
+
+            <ImageView
+                android:id="@+id/iv_fb_sub"
+                android:layout_width="240dp"
+                android:layout_height="160dp"
+                               android:contentDescription="@string/appname" />
+        </ViewFlipper>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r_gn"
+        android:layout_width="160dp"
+        android:layout_height="240dp"
+        android:layout_below="@+id/r_cont"
+        android:layout_toRightOf="@+id/r_fb"
+        android:background="#d17ad9" >
+
+        <ViewFlipper
+            android:id="@+id/vf_gn"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#000" >
+
+            <ImageView
+                android:id="@+id/iv_gen"
+                android:layout_width="160dp"
+                android:layout_height="240dp"
+                android:background="@drawable/general"
+                android:contentDescription="@string/appname" />
+
+            <ImageView
+                android:id="@+id/iv_gen_sub"
+                android:layout_width="160dp"
+                android:layout_height="240dp"
+
+                android:contentDescription="@string/appname" />
+        </ViewFlipper>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r_man"
+        android:layout_width="160dp"
+        android:layout_height="240dp"
+        android:layout_below="@+id/r_cont"
+        android:layout_toLeftOf="@+id/r_cont"
+        android:background="#d9897a" >
+
+        <ViewFlipper
+            android:id="@+id/vf_man"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#000" >
+
+            <ImageView
+                android:id="@+id/iv_man"
+                android:layout_width="160dp"
+                android:layout_height="240dp"
+                android:background="@drawable/manual"
+                android:contentDescription="@string/appname" />
+
+            <ImageView
+                android:id="@+id/iv_man_sub"
+                android:layout_width="160dp"
+                android:layout_height="240dp"
+
+                android:contentDescription="@string/appname"
+                android:visibility="gone" />
+        </ViewFlipper>
+    </RelativeLayout>
+
+</RelativeLayout>

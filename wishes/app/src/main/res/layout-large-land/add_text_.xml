@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <Button
+        android:id="@+id/fonttype"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/typetext"
+        android:layout_marginLeft="30dp"
+         android:background="#7bcdfc"
+        android:layout_marginTop="25dp"
+        android:text="Font" />
+
+    <Button
+        android:id="@+id/colorfont"
+        android:layout_width="70dp"
+        android:layout_height="40dp"
+       android:layout_alignBaseline="@+id/fonttype"
+        android:layout_toRightOf="@+id/fonttype"
+        android:layout_marginLeft="43dp"
+         android:background="#7bcdfc"
+        android:text="Color" />
+
+    <TextView
+        android:id="@+id/formattext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/typetext"
+        android:layout_alignBottom="@+id/typetext"
+        android:layout_toRightOf="@+id/typetext"
+        android:layout_marginLeft="10dp"
+        
+       android:text="0/30"
+          android:textColor="@android:color/black"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <EditText
+        android:id="@+id/typetext"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="33dp"
+		android:layout_marginLeft="30dp"
+        android:maxLength="30" >
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/entertext"
+        android:layout_width="70dp"
+        android:layout_height="40dp"
+        android:layout_alignBaseline="@+id/colorfont"
+        android:layout_toRightOf="@+id/colorfont"
+        android:layout_marginLeft="80dp"
+         android:background="#7bcdfc"
+ 
+        android:text="Insert" />
+
+</RelativeLayout>

@@ -1,0 +1,272 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/e9bdeeef7cc21d89584da6fe6f75f040/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/4b8a955b98ac877e11687c89ad325a45/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c5dfbb5ddb162c414103685ed06f3c04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/200fdf0e32c288ab996837c171488d2e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b5af114822a028fd26ea4b077d3da7e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a0b1822678839991eb10177d0d1d3856/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6e25827efc0383a258726bcea9a10002/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/580ecedc7267721d493bc968bca86133/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6b1d37fdb6296d73cd6aa51694492497/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/39793cc602388962de21760ff6868bfc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d404cea9d5c334be96b239c0992c5a61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fb1cfd7ec13022aebda8c9bd752ea34a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/90ef951309e8f1dba57a937beb8cc1ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f3fc34cf9ccf87ae4be387d407e71ff8/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ramesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/29f2079a3ce55f79012018ab6d2b5e42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/03c6e55ae1dc2834468889236559a9c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/43e7dac423ae76663bf72778279b1edf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a4f8d6047fab4c704968358d71eb8eb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/18e240587cec9114964c2b03b6dbfc29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/77f4f19c1e989b37eaa38c2a1328194e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ramesh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c1998ec138a0daac0f61cc3acddf4f5a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ramesh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/64ac4c4b898330177083c597ed236eae/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ramesh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/311cb7e3b37df7e5c70ccbbf852f5fa5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/ramesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/019784edad63a47013ffc91a15761f72/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:9:22-69
+supports-screens
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:11:5-16:11
+	android:largeScreens
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:14:9-36
+	android:smallScreens
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:12:9-36
+	android:normalScreens
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:13:9-37
+	android:anyDensity
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:15:9-34
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:17:22-76
+application
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:19:5-55:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f3fc34cf9ccf87ae4be387d407e71ff8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f3fc34cf9ccf87ae4be387d407e71ff8/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:22:9-40
+	android:icon
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:21:9-39
+	android:allowBackup
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:23:9-40
+activity#com.innozol.stallion.wishes.WishListActivity
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:24:9-27:20
+	android:screenOrientation
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:26:13-49
+	android:theme
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:25:13-48
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:24:19-78
+activity#com.innozol.stallion.wishes.SplashScreen
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:28:9-36:20
+	android:screenOrientation
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:28:19-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:31:25-35:29
+action#android.intent.action.MAIN
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:34:27-74
+activity#com.innozol.stallion.wishes.Home
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:37:9-75
+	android:noHistory
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:37:39-63
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:37:19-38
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:38:9-98
+	android:value
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:38:66-96
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:38:20-65
+activity#com.facebook.LoginActivity
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:39:9-62
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:39:19-60
+activity#com.innozol.stallion.wishes.FromFacebookActivity
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:40:9-103
+	android:screenOrientation
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:40:55-91
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:40:19-54
+activity#com.innozol.stallion.wishes.AddManual
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:41:9-92
+	android:screenOrientation
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:41:44-80
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:41:19-43
+activity#com.innozol.stallion.wishes.ManualActivity
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:42:9-97
+	android:screenOrientation
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:42:49-85
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:42:19-48
+activity#com.innozol.stallion.wishes.ProfileAcivity
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:43:9-97
+	android:screenOrientation
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:43:49-85
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:43:19-48
+activity#com.innozol.stallion.wishes.SendMessageActivity
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:44:9-102
+	android:screenOrientation
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:44:54-90
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:44:19-53
+activity#com.innozol.stallion.wishes.EditProfile
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:45:9-94
+	android:screenOrientation
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:45:46-82
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:45:19-45
+activity#com.innozol.stallion.wishes.CustomTempbackgrounds
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:46:9-104
+	android:screenOrientation
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:46:56-92
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:46:19-55
+activity#com.innozol.stallion.wishes.PredefineTemplats
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:47:9-63
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:47:19-51
+receiver#com.innozol.stallion.wishes.AlarmSortReceiver
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:48:9-63
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:48:19-51
+service#com.innozol.stallion.wishes.NotifyBDay
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:49:9-54
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:49:18-43
+activity#com.innozol.stallion.wishes.ContactsListActivity
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:50:9-103
+	android:screenOrientation
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:50:55-91
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:50:19-54
+activity#com.innozol.stallion.wishes.PreferencesActivity
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:51:9-102
+	android:screenOrientation
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:51:54-90
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:51:19-53
+activity#com.innozol.stallion.wishes.PhotoSortrActivity
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:52:9-64
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:52:19-52
+activity#com.innozol.stallion.wishes.General
+ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:53:9-90
+	android:screenOrientation
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:53:42-78
+	android:name
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml:53:19-41
+uses-sdk
+INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml
+INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/e9bdeeef7cc21d89584da6fe6f75f040/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/e9bdeeef7cc21d89584da6fe6f75f040/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/4b8a955b98ac877e11687c89ad325a45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/4b8a955b98ac877e11687c89ad325a45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c5dfbb5ddb162c414103685ed06f3c04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c5dfbb5ddb162c414103685ed06f3c04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/200fdf0e32c288ab996837c171488d2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/200fdf0e32c288ab996837c171488d2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b5af114822a028fd26ea4b077d3da7e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b5af114822a028fd26ea4b077d3da7e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a0b1822678839991eb10177d0d1d3856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a0b1822678839991eb10177d0d1d3856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6e25827efc0383a258726bcea9a10002/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6e25827efc0383a258726bcea9a10002/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/580ecedc7267721d493bc968bca86133/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/580ecedc7267721d493bc968bca86133/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6b1d37fdb6296d73cd6aa51694492497/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6b1d37fdb6296d73cd6aa51694492497/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/39793cc602388962de21760ff6868bfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/39793cc602388962de21760ff6868bfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d404cea9d5c334be96b239c0992c5a61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d404cea9d5c334be96b239c0992c5a61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fb1cfd7ec13022aebda8c9bd752ea34a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fb1cfd7ec13022aebda8c9bd752ea34a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/90ef951309e8f1dba57a937beb8cc1ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/90ef951309e8f1dba57a937beb8cc1ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f3fc34cf9ccf87ae4be387d407e71ff8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f3fc34cf9ccf87ae4be387d407e71ff8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ramesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/29f2079a3ce55f79012018ab6d2b5e42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ramesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/29f2079a3ce55f79012018ab6d2b5e42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/03c6e55ae1dc2834468889236559a9c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/03c6e55ae1dc2834468889236559a9c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/43e7dac423ae76663bf72778279b1edf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/43e7dac423ae76663bf72778279b1edf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a4f8d6047fab4c704968358d71eb8eb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a4f8d6047fab4c704968358d71eb8eb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/18e240587cec9114964c2b03b6dbfc29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/18e240587cec9114964c2b03b6dbfc29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/77f4f19c1e989b37eaa38c2a1328194e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ramesh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/77f4f19c1e989b37eaa38c2a1328194e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ramesh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c1998ec138a0daac0f61cc3acddf4f5a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ramesh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c1998ec138a0daac0f61cc3acddf4f5a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ramesh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/64ac4c4b898330177083c597ed236eae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ramesh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/64ac4c4b898330177083c597ed236eae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ramesh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/311cb7e3b37df7e5c70ccbbf852f5fa5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ramesh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/311cb7e3b37df7e5c70ccbbf852f5fa5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ramesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/019784edad63a47013ffc91a15761f72/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ramesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/019784edad63a47013ffc91a15761f72/AndroidManifest.xml:20:5-44
+INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml
+INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml
+		ADDED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/AndroidManifest.xml

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="100dp"
+    android:background="#fff" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#99ff0000"
+        android:text="@string/preference_notify_at"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/b_preferences_notify_at"
+        android:layout_width="60dp"
+        android:layout_height="35dp"
+        android:background="#7BCFC7"
+        android:layout_alignBaseline="@+id/t_preferences_notify_at_time"
+        android:layout_toRightOf="@+id/t_preferences_notify_at_time"
+        android:layout_marginLeft="35dp"
+        android:textColor="#fff"
+        android:text="Change" />
+    
+    <TextView 
+        android:id="@+id/t_preferences_notify_at_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_below="@+id/textView1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#7BCFC7"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:text="23.59"
+        />
+
+    <Button
+        android:id="@+id/b_pref_save"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="70dp"
+        android:layout_height="35dp"
+        android:layout_toRightOf="@+id/b_preferences_notify_at"
+        android:layout_alignBaseline="@+id/b_preferences_notify_at"
+        android:layout_marginLeft="20dp"
+        android:background="#7BCFC7"
+        android:textColor="#fff"
+        android:text="Save" />
+
+</RelativeLayout>

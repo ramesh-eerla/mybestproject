@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/fb_prof_pic"
+        android:layout_width="65dp"
+        android:layout_height="70dp"
+        android:layout_alignParentLeft="true"
+        android:padding="8dp"
+        android:layout_marginLeft="6dp"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/fb_prof_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/fb_prof_pic"
+        android:layout_marginLeft="14dp"
+        android:layout_toRightOf="@+id/fb_prof_pic"
+        android:maxLength="19"
+        android:layout_marginTop="15dp"
+        android:text="Name Here"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/fb_prf_dob"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/fb_prof_name"
+        android:layout_marginTop="0dp"
+        android:maxLength="19"
+        android:layout_below="@+id/fb_prof_name"
+        android:text="Birthday Here" />
+
+    <CheckBox
+        android:id="@+id/fb_select_check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/fb_prof_pic"
+        android:layout_alignParentRight="true"
+        android:checked="false"
+        android:button="@drawable/checkbox_selector_fb"
+        android:focusable="false"
+        android:layout_marginRight="12dp"
+        android:layout_marginBottom="17dp" />
+
+</RelativeLayout>

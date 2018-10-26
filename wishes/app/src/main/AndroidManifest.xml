@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.innozol.stallion.wishes"
+    android:versionCode="5"
+    android:versionName="1.1" >
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    
+    <supports-screens 
+        android:smallScreens="true"
+        android:normalScreens="true"
+        android:largeScreens="true"
+        android:anyDensity="true"
+        />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/micon"
+        android:label="@string/appname"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.innozol.stallion.wishes.WishListActivity"
+            android:theme="@style/Custom_title"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name="SplashScreen"
+            android:label="@string/appname"
+            android:screenOrientation="portrait">
+                        <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="Home" android:noHistory="true"></activity>
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/app_id"/>
+        <activity android:name="com.facebook.LoginActivity"/>
+        <activity android:name="FromFacebookActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name="AddManual" android:screenOrientation="portrait"></activity>
+        <activity android:name="ManualActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name="ProfileAcivity" android:screenOrientation="portrait"></activity>
+        <activity android:name="SendMessageActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name="EditProfile" android:screenOrientation="portrait"></activity>
+        <activity android:name="CustomTempbackgrounds" android:screenOrientation="portrait"></activity>
+        <activity android:name="PredefineTemplats"></activity>        
+        <receiver android:name="AlarmSortReceiver"></receiver>
+        <service android:name="NotifyBDay"></service>
+        <activity android:name="ContactsListActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name="PreferencesActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name="PhotoSortrActivity"></activity>
+        <activity android:name="General" android:screenOrientation="portrait"></activity>
+        
+    </application>
+
+</manifest>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="150dp"
+        android:textSize="30sp"
+        android:text="@string/preference_notify_at"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/b_preferences_notify_at"
+        android:layout_width="110dp"
+        android:layout_height="65dp"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_below="@+id/textView1"
+        android:layout_marginLeft="38dp"
+        android:layout_marginTop="18dp"
+        android:textSize="23sp"
+        android:background="#7BCFC7"
+        android:textColor="#fff"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/b_pref_save"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="90dp"
+        android:layout_height="55dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/b_preferences_notify_at"
+        android:background="#7BCFC7"
+        android:textColor="#fff"
+        android:textSize="23sp"
+        android:layout_marginRight="130dp"
+        android:layout_marginTop="52dp"
+        android:text="Save" />
+
+</RelativeLayout>

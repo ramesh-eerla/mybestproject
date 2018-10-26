@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="100dp"
+        android:layout_marginTop="32dp"
+        android:layout_height="fill_parent"
+        android:visibility="gone"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"
+        android:background="#666666" >
+    </ListView>
+
+    <ListView
+        android:id="@+id/list1"
+        android:layout_width="100dp"
+        android:layout_height="fill_parent"
+        android:visibility="gone"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"
+        android:layout_marginTop="32dp"
+        android:background="#666666"
+        >
+    </ListView>    
+        <RelativeLayout
+            android:id="@+id/slidingPanel"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@android:color/white"
+            android:gravity="left" >
+        </RelativeLayout>  
+    <RelativeLayout
+        android:id="@+id/buttons"
+        android:layout_width="fill_parent"
+        android:layout_height="31dp"
+        android:background="@android:color/transparent"
+        android:gravity="left" >
+        <ImageView
+            android:id="@+id/menuViewButton"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:clickable="true"
+            android:src="@drawable/button_plus_green_hover"
+            android:visibility="visible" />
+        <ImageView
+            android:id="@+id/imageDelete"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/delete" />
+        <ImageView
+            android:id="@+id/saveimage"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="92dp"
+            android:layout_toRightOf="@+id/menuViewButton"
+            android:src="@drawable/save" />
+        <ImageView
+            android:id="@+id/Sharimage"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="58dp"
+            android:layout_toRightOf="@+id/saveimage"
+            android:src="@drawable/star" />
+    </RelativeLayout>
+
+</FrameLayout>

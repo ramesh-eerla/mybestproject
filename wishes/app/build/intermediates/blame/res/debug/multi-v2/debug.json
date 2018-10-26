@@ -1,0 +1,1561 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-or_values-or.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-v16_values-v16.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-et/values-et.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-sw/values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "205",
+                        "endColumns": "58",
+                        "endOffsets": "259"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-in/values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-ja/values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-km/values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-sl/values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-am/values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-lt/values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-mr_values-mr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-tl/values-tl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-es-rUS/values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-gl/values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-af/values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-en-rXC_values-en-rXC.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-eu_values-eu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-ml/values-ml.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-en-rCA_values-en-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-en-rCA/values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-bg/values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-bn/values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-kn/values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-te/values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-ne/values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/res/values/custom_title.xml",
+                    "from": {
+                        "startLines": "6,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "178,57",
+                        "endLines": "9,4",
+                        "endColumns": "12,12",
+                        "endOffsets": "399,169"
+                    },
+                    "to": {
+                        "startLines": "369,373",
+                        "startColumns": "4,4",
+                        "startOffsets": "21254,21477",
+                        "endLines": "372,375",
+                        "endColumns": "12,12",
+                        "endOffsets": "21472,21587"
+                    }
+                },
+                {
+                    "source": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/res/values/attrs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "1",
+                        "startOffsets": "52",
+                        "endLines": "16",
+                        "endColumns": "21",
+                        "endOffsets": "646"
+                    },
+                    "to": {
+                        "startLines": "239",
+                        "startColumns": "4",
+                        "startOffsets": "14019",
+                        "endLines": "253",
+                        "endColumns": "21",
+                        "endOffsets": "14607"
+                    }
+                },
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,13,56,88,125,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,187,245,319,617,3523,5588,7348,7725,7795,7863,7935,8005,8066,8140,8213,8274,8335,8397,8461,8523,8584,8652,8752,8812,8878,8951,9020,9077,9129,9191,9263,9339,9374,9409,9459,9520,9577,9611,9646,9681,9751,9822,9939,10140,10250,10451,10580,10652",
+                        "endLines": "2,3,4,5,12,55,87,124,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,170,171,175,176,177,178",
+                        "endColumns": "68,62,57,73,24,24,24,24,24,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "119,182,240,314,612,3518,5583,7343,7720,7790,7858,7930,8000,8061,8135,8208,8269,8330,8392,8456,8518,8579,8647,8747,8807,8873,8946,9015,9072,9124,9186,9258,9334,9369,9404,9454,9515,9572,9606,9641,9676,9746,9817,9934,10135,10245,10446,10575,10647,10714"
+                    },
+                    "to": {
+                        "startLines": "4,5,8,10,11,117,160,195,232,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,285,286,287,288,289,290,291,292,293,294,296,322,383,384,389,392,397,399,400",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "182,251,474,605,679,6796,9702,11882,13642,14726,14796,14864,14936,15006,15067,15141,15214,15275,15336,15398,15462,15524,15585,15653,15753,15813,15879,15952,16021,16078,16130,16538,16610,16686,16721,16756,16806,16867,16924,16958,16993,17088,18795,21939,22056,22323,22616,22883,23079,23151",
+                        "endLines": "4,5,8,10,17,159,191,231,238,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,285,286,287,288,289,290,291,292,293,294,296,322,383,387,389,395,397,399,400",
+                        "endColumns": "68,62,57,73,24,24,24,24,24,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "246,309,527,674,972,9697,11762,13637,14014,14791,14859,14931,15001,15062,15136,15209,15270,15331,15393,15457,15519,15580,15648,15748,15808,15874,15947,16016,16073,16125,16187,16605,16681,16716,16751,16801,16862,16919,16953,16988,17023,17153,18861,22051,22252,22428,22812,23007,23146,23213"
+                    }
+                },
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/4b8a955b98ac877e11687c89ad325a45/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,144,215,288,341,394,447,500,560,626,748,809,875",
+                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
+                        "endOffsets": "139,210,283,336,389,442,495,555,621,743,804,870,937"
+                    },
+                    "to": {
+                        "startLines": "6,7,9,281,282,283,284,295,388,390,391,396,398",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "314,403,532,16326,16379,16432,16485,17028,22257,22433,22555,22817,23012",
+                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
+                        "endOffsets": "398,469,600,16374,16427,16480,16533,17083,22318,22550,22611,22878,23074"
+                    }
+                },
+                {
+                    "source": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "30,33,35,40,50,45,56,58,63,73,68,6,20,24,82,14,78",
+                        "startColumns": "4,1,1,1,1,1,1,1,1,1,1,4,4,4,3,4,1",
+                        "startOffsets": "1050,1105,1150,1361,1850,1605,2069,2112,2321,2806,2563,191,682,851,3135,493,3005",
+                        "endLines": "30,33,38,43,53,48,56,61,66,76,71,12,22,27,84,17,81",
+                        "endColumns": "31,40,9,9,9,9,38,9,9,9,9,12,12,12,11,12,11",
+                        "endOffsets": "1077,1144,1355,1599,2042,1844,2106,2315,2557,2999,2800,481,839,1036,3292,641,3130"
+                    },
+                    "to": {
+                        "startLines": "324,325,326,330,334,338,342,343,347,351,355,359,366,376,380,404,408",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "18929,18960,19003,19210,19450,19644,19885,19926,20131,20369,20564,20803,21094,21592,21779,23363,23513",
+                        "endLines": "324,325,329,333,337,341,342,346,350,354,358,365,368,379,382,407,411",
+                        "endColumns": "30,42,9,9,9,9,40,9,9,9,9,12,12,12,11,12,11",
+                        "endOffsets": "18955,18998,19205,19445,19639,19880,19921,20126,20364,20559,20798,21089,21249,21774,21934,23508,23635"
+                    }
+                },
+                {
+                    "source": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "4,5,3,2,1",
+                        "startColumns": "2,4,2,2,2",
+                        "startOffsets": "142,200,99,56,14",
+                        "endColumns": "55,55,42,42,41",
+                        "endOffsets": "195,251,139,96,53"
+                    },
+                    "to": {
+                        "startLines": "254,255,278,279,280",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "14612,14670,16192,16237,16282",
+                        "endColumns": "57,55,44,44,43",
+                        "endOffsets": "14665,14721,16232,16277,16321"
+                    }
+                },
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/580ecedc7267721d493bc968bca86133/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,13,102",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,116,724,5935",
+                        "endLines": "2,12,101,104",
+                        "endColumns": "60,24,24,12",
+                        "endOffsets": "111,719,5930,6075"
+                    },
+                    "to": {
+                        "startLines": "2,18,28,401",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,977,1585,23218",
+                        "endLines": "2,27,116,403",
+                        "endColumns": "60,24,24,12",
+                        "endOffsets": "111,1580,6791,23358"
+                    }
+                },
+                {
+                    "source": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/res/values/color.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "63",
+                        "endColumns": "67",
+                        "endOffsets": "126"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "116",
+                        "endColumns": "65",
+                        "endOffsets": "177"
+                    }
+                },
+                {
+                    "source": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "12,5,25,3,14,11,7,10,26,20,16,15,22,21,6,9,17,8,23,13,24,28,4,19,27,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "671,206,1473,56,792,608,348,543,1545,1154,910,851,1284,1219,281,478,973,415,1346,728,1405,1675,120,1095,1616,1032",
+                        "endColumns": "56,74,71,63,58,62,66,64,70,64,62,58,61,64,66,64,58,62,58,63,67,80,85,58,58,62",
+                        "endOffsets": "723,276,1540,115,846,666,410,603,1611,1214,968,905,1341,1279,343,538,1027,473,1400,787,1468,1751,201,1149,1670,1090"
+                    },
+                    "to": {
+                        "startLines": "297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,323",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "17158,17215,17290,17362,17426,17485,17548,17615,17680,17751,17816,17879,17938,18000,18065,18132,18197,18256,18319,18378,18442,18510,18591,18677,18736,18866",
+                        "endColumns": "56,74,71,63,58,62,66,64,70,64,62,58,61,64,66,64,58,62,58,63,67,80,85,58,58,62",
+                        "endOffsets": "17210,17285,17357,17421,17480,17543,17610,17675,17746,17811,17874,17933,17995,18060,18127,18192,18251,18314,18373,18437,18505,18586,18672,18731,18790,18924"
+                    }
+                },
+                {
+                    "source": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/src/main/res/values/attributes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "5",
+                        "startOffsets": "58",
+                        "endLines": "4",
+                        "endColumns": "25",
+                        "endOffsets": "170"
+                    },
+                    "to": {
+                        "startLines": "192",
+                        "startColumns": "4",
+                        "startOffsets": "11767",
+                        "endLines": "194",
+                        "endColumns": "25",
+                        "endOffsets": "11877"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-v24_values-v24.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/4b8a955b98ac877e11687c89ad325a45/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-kk/values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/4b8a955b98ac877e11687c89ad325a45/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "8,11,15,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "596,764,1053,1349",
+                        "endLines": "10,13,17,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "759,922,1216,1511"
+                    }
+                },
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,14,18,22,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,927,1221,1516,1688",
+                        "endLines": "2,3,4,5,6,7,14,18,24,29",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,1048,1344,1683,2021"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-hy_values-hy.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-ta/values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-mn_values-mn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-mn/values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-as_values-as.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-as/values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ramesh/Personal/wishes/mybestproject/wishes/app/build/intermediates/res/merged/debug/values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ramesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/891181742ef0765f9edd407ae250b216/res/values-th/values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

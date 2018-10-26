@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/profImage"
+        android:layout_width="65dp"
+        android:layout_height="70dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:padding="4dp"
+        android:layout_marginLeft="15dp"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/profNameItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="8dp"
+        android:layout_toRightOf="@+id/profImage"
+        android:shadowColor="#898989"
+        android:shadowDx="1"
+        android:padding="2dp"
+        android:maxLength="17"
+        android:shadowDy="1"
+        android:shadowRadius="1"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#fff" />
+
+    <TextView
+        android:id="@+id/profDob"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/profNameItem"
+        android:layout_below="@+id/profNameItem"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:shadowColor="#898989"
+        android:shadowDx=".3"
+        android:shadowDy=".3"
+        android:shadowRadius=".3"
+        android:textColor="#fff"
+        android:textStyle="bold" />
+
+</RelativeLayout>

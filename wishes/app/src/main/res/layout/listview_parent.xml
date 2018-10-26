@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relative_facebookactivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/rel_header"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" >
+        <EditText
+            android:id="@+id/search_by_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:ems="10"
+            android:hint="Search by Name" />
+
+        <CheckBox
+            android:id="@+id/check_all"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:visibility="gone"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/check_all"
+            android:layout_alignBottom="@+id/check_all"
+            android:layout_toLeftOf="@+id/check_all"
+            android:text="Check all"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+    </RelativeLayout>
+   	
+   	<RelativeLayout
+   	    android:id="@+id/internet_layout"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_below="@+id/rel_header"
+        android:background="#BBFF0000"
+        android:gravity="center_vertical|center_horizontal"
+        android:visibility="visible" >
+
+   	    <ImageView 
+   	        android:id="@+id/img_warning"
+   	        android:layout_width="15dp"
+   	        android:layout_height="15dp"
+   	        android:background="@drawable/warning"
+   	        android:visibility="visible"
+   	        />
+   	    
+   	    <TextView 
+   	        android:id="@+id/txt_warning"
+   	        android:layout_width="wrap_content"
+   	        android:layout_height="wrap_content"
+   	        android:text="No Internet"
+   	        android:textColor="#fff"
+   	        android:layout_toRightOf="@+id/img_warning"
+   	        android:layout_marginLeft="5dp"
+   	        android:layout_alignBaseline="@+id/img_warning"
+   	        android:layout_centerHorizontal="true"
+   	        android:visibility="visible"
+   	        />
+   	    
+   	</RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/fb_list_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/internet_layout" >
+
+        <ListView
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true" >
+        </ListView>
+        
+    </RelativeLayout>
+
+</RelativeLayout>

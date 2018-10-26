@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#70cf70" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="TextView" />
+
+    <Button
+        android:id="@+id/cancel"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="60dip"
+        android:layout_height="35dip"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_below="@+id/textView1"
+        android:layout_marginLeft="26dp"
+        android:layout_marginTop="21dp"
+        android:text="Cancel" />
+
+    <Button
+        android:id="@+id/ok"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="60dip"
+        android:layout_height="35dip"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/cancel"
+        android:layout_marginRight="58dp"
+        android:text="Ok" />
+
+</RelativeLayout>

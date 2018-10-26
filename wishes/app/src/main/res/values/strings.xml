@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="appname" translatable="false">Wishes</string>
+    <string name="profile_picture_desc" translatable="false">Profile Picture</string>
+    <string name="addwish" translatable="false">Click to add wish</string>
+    <string name="facebook" translatable="false">Facebook</string>
+    <string name="contacts" translatable="false">Contacts</string>
+    <string name="manual" translatable="false">Manual</string>
+    <string name="general" translatable="false">General</string>
+    <string name="contin" translatable="false">Continue</string>
+    <string name="cancel" translatable="false">Cancel</string>
+    <string name="add" translatable="false">Add</string>
+    <string name="option" translatable="false">Options</string>
+    <string name="back" translatable="false">Back</string>
+    <string name="edit" translatable="false">Edit</string>
+    <string name="delete" translatable="false">Delete</string>
+    <string name="home" translatable="false">Home</string>
+    <string name="wishes" translatable="false">Wishes</string>
+    <string name="save" translatable="false">Save</string>
+    <string name="date" translatable="false">dd-mm-yyyy</string>
+    <string name="eventname" translatable="false">Event</string>
+    <string name="email" translatable="false">E-mail</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="phonenumbar" translatable="false">Mobile</string>
+    <string name="app_id" translatable="false">125051467655311</string>
+    <string name="customized" translatable="false">Customized</string>
+    <string name="send" translatable="false">Send</string>
+    <string name="preference_notify_at" translatable="false">Notify at </string>
+
+</resources>

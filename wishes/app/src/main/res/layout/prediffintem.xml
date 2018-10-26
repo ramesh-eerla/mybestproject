@@ -1,0 +1,70 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+   <RelativeLayout
+       android:id="@+id/preback"
+       android:layout_width="fill_parent"
+       android:layout_height="fill_parent"
+        >
+
+       <com.innozol.stallion.wishes.GalleryCustom
+           android:id="@+id/view_pager"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_alignParentLeft="true"
+           android:layout_alignParentTop="true" />
+
+       <RelativeLayout
+           android:id="@+id/relativeLayout1"
+           android:layout_width="match_parent"
+           android:layout_height="31dp"
+           android:layout_alignParentRight="true"
+           android:layout_alignParentTop="true" 
+           android:background="#11636363">
+
+           <Button
+               android:id="@+id/predefinecustomize"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_alignParentLeft="true"
+               android:layout_centerVertical="true"
+               android:layout_marginLeft="27dp"
+               android:background="@android:color/transparent"
+               android:textSize="25dp"
+               android:text="Customize"
+               android:textColor="#636363" />
+
+           <Button
+               android:id="@+id/shreprediffine"
+               android:layout_width="wrap_content"
+               android:layout_height="50dp"
+               android:layout_alignParentRight="true"
+               android:layout_alignParentTop="true"
+               android:layout_marginRight="27dp"
+               android:background="@android:color/transparent"
+               android:text="Share"
+               android:textColor="#636363"
+               android:textSize="25dp" />
+
+       </RelativeLayout>
+
+       <RelativeLayout
+           android:id="@+id/relativeLayout2"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignParentLeft="true"
+           android:layout_centerVertical="true"
+           android:background="@drawable/right" >
+       </RelativeLayout>
+
+       <RelativeLayout
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignParentRight="true"
+           android:layout_alignTop="@+id/relativeLayout2"
+           android:background="@drawable/left" >
+       </RelativeLayout>
+   </RelativeLayout>
+
+</FrameLayout>
